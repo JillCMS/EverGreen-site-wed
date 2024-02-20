@@ -1,0 +1,35 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #F8E9DF;
+    color: #505C44;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #E8D3C2;
+    color: #505C44;
+    text-align: center;
+    padding: 20px;
+}
+
+section, footer {
+    margin: 20px;
+    padding: 20px;
+    background-color: #C9A88A;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+    color: #22412B;
+}
+
+a {
+    color: #4B5D40;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
